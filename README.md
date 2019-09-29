@@ -21,3 +21,13 @@ Summary [PPT](#).
 ### ACL 2019
 - [RE3QA](#)
 - [RankQA](#)
+
+## MS MARCO
+### Passage Retrieval
+- [Duet](#)
+- [Duet V2](#)
+
+## Bookshelf
+- 《[Deep Learning](http://www.deeplearningbook.org/)》
+- 《[Mathematics for Machine Learning](https://mml-book.github.io/)》
+- 《[Learning to rank for information retrieval](https://www.cda.cn/uploadfile/image/20151220/20151220115436_46293.pdf)》
