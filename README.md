@@ -24,10 +24,11 @@ Summary [PPT](#).
 
 ## MS MARCO
 ### Passage Retrieval
-- [Duet](#)
+- Duet: [[arxiv](https://arxiv.org/abs/1610.08136)], [[PPT](#)], [[notes](#)] 
 - [Duet V2](#)
 
 ## Bookshelf
 - 《[Deep Learning](http://www.deeplearningbook.org/)》
+- 《[Deep Learning (中文版)](https://exacity.github.io/deeplearningbook-chinese/)》
 - 《[Mathematics for Machine Learning](https://mml-book.github.io/)》
 - 《[Learning to rank for information retrieval](https://www.cda.cn/uploadfile/image/20151220/20151220115436_46293.pdf)》
