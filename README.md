@@ -32,3 +32,4 @@ Summary [PPT](#).
 - 《[Deep Learning (中文版)](https://exacity.github.io/deeplearningbook-chinese/)》
 - 《[Mathematics for Machine Learning](https://mml-book.github.io/)》
 - 《[Learning to rank for information retrieval](https://www.cda.cn/uploadfile/image/20151220/20151220115436_46293.pdf)》
+- 《[GDL-Generative Deep Learning](#)》
