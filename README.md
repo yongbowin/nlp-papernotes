@@ -42,5 +42,6 @@ MS MARCO [LeaderBoard](http://www.msmarco.org/leaders.aspx), several public pape
 - 《[Deep Learning (中文版)](https://exacity.github.io/deeplearningbook-chinese/)》
 - 《[Mathematics for Machine Learning](https://mml-book.github.io/)》
 - 《[Learning to rank for information retrieval](https://www.cda.cn/uploadfile/image/20151220/20151220115436_46293.pdf)》
-- 《[GDL-Generative Deep Learning](#)》
+- 《[GDL-Generative Deep Learning](https://github.com/yongbowin/nlp-papernotes/tree/master/books/GDL-Generative_Deep_Learning-David_Foster.pdf)》
 - 《[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)》
+- 《[word2vec math theories](https://github.com/yongbowin/nlp-papernotes/tree/master/books/word2vec_math_theories.pdf)》
