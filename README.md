@@ -57,3 +57,4 @@ MS MARCO [LeaderBoard](http://www.msmarco.org/leaders.aspx), several public pape
 - 《[GDL-Generative Deep Learning](https://github.com/yongbowin/nlp-papernotes/tree/master/books/GDL-Generative_Deep_Learning-David_Foster.pdf)》
 - 《[Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)》
 - 《[word2vec math theories](https://github.com/yongbowin/nlp-papernotes/tree/master/books/word2vec_math_theories.pdf)》
+- 《[TensorFlow2深度学习](https://github.com/yongbowin/nlp-papernotes/tree/master/books/TensorFlow2深度学习.pdf)》 \[[code](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)\]
