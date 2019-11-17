@@ -49,6 +49,9 @@ MS MARCO [LeaderBoard](http://www.msmarco.org/leaders.aspx), several public pape
 - Duet: [[arxiv](https://arxiv.org/abs/1610.08136)], [[PPT](#)], [[notes](#)] 
 - [Duet V2](#)
 
+## Optimizer
+- [Adam](#) TODO
+
 ## Bookshelf
 - 《[Deep Learning](http://www.deeplearningbook.org/)》
 - 《[Deep Learning (中文版)](https://exacity.github.io/deeplearningbook-chinese/)》
